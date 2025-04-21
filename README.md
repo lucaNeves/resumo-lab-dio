@@ -1,5 +1,6 @@
 # resumo-lab-dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+Aqui também terão pastas com prints de mim usando o Azure
 
 ## O que foi aprendido:
 
