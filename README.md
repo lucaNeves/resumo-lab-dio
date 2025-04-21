@@ -19,3 +19,9 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Capacidade de medição de métricas
 - SLA (Service Level Agreement - Acordo de Nível de Serviço)
 - Aprofundamento nos serviços e recursos do portal do Azure
+
+
+### Curso Tipos de Serviço de Nuvem
+- O que são IaaS, PaaS e SaaS
+- Quem tem qual responsabilidade no acordo entre cliente e provedor de nuvem
+- Exemplos de tipos de serviço
