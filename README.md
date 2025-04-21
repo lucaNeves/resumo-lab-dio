@@ -26,3 +26,13 @@ Aqui também terão pastas com prints de mim usando o Azure
 - O que são IaaS, PaaS e SaaS
 - Quem tem qual responsabilidade no acordo entre cliente e provedor de nuvem
 - Exemplos de tipos de serviço
+
+### Curso Componentes de Arquitetura do Azure
+- Aprendendo sobre regiões
+- Entendendo de zonas de disponibilidade
+- Pares de regiões
+- Regiões soberanas (exclusivas de certos países como Estados Unidos e China)
+- Recursos do Azure
+- Aprendendo sobre grupo de recursos
+- Entendendo como as assinaturas funcionam
+- Entendendo grupos de gerenciamento
